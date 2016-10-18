@@ -12,10 +12,6 @@
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw)
 + [Github](https://github.com/wizardforcel/lcthw-zh)
 
-## 赞助我
-
-![](img/qr_alipay.png)
-
 ## 协议
 
 此版本遵循[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)协议，原版无此约束。
